@@ -64,9 +64,5 @@ python stock_prediction.py
 ## Results
 
 The model achieves the following performance metrics:
-- Linear Regression: MSE = 211.46, R² = 0.9999
-- LSTM: MSE = 3947.16, R² = 0.9977
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
+- Linear Regression: MSE = 219.68, R² = 0.9999
+- LSTM: MSE = 20389.19, R² = 0.9881
